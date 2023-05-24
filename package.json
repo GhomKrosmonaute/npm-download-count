@@ -2,6 +2,7 @@
   "name": "npm-download-count",
   "version": "1.0.0",
   "type": "module",
+  "main": "dist/index.js",
   "dependencies": {
     "jsdom": "^22.0.0",
     "typescript": "^5.0.4"
